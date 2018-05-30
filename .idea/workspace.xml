@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1abcb867-cff4-48fd-8767-7bc4e8d73c0d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imgting/wmb010.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flask_api/flask_study.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imgting/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imgting/aaaa.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imgting/comm.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imgting/tinypng.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/future/moves/dbm/__init__.py" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/future/moves/dbm/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/libfuturize/fixes/fix_absolute_import.py" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/libfuturize/fixes/fix_absolute_import.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/past/translation/__init__.py" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/past/translation/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/__init__.py" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/utils/__init__.py" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/utils/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/__init__.py" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/__init__.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,14 +25,75 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="curl_send.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/vultr_test/curl_send.py">
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imgting/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="49" column="44" lean-forward="true" selection-start-line="49" selection-start-column="44" selection-end-line="49" selection-end-column="44" />
+            <state relative-caret-position="105">
+              <caret line="5" column="39" lean-forward="true" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wmb010.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imgting/wmb010.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="comm.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/imgting/comm.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="355">
+              <caret line="171" column="24" lean-forward="true" selection-start-line="171" selection-start-column="24" selection-end-line="171" selection-end-column="24" />
               <folding>
-                <element signature="e#0#9#0" expanded="true" />
+                <element signature="e#541#558#0" expanded="true" />
+                <element signature="e#1131#2890#0" expanded="false" />
+                <element signature="e#1969#2646#0" expanded="false" />
+                <element signature="e#2938#5049#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="aaaa.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imgting/aaaa.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1596">
+              <caret line="76" column="44" lean-forward="true" selection-start-line="76" selection-start-column="44" selection-end-line="76" selection-end-column="44" />
+              <folding>
+                <element signature="e#69#90#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tinypng.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imgting/tinypng.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1785">
+              <caret line="94" column="0" lean-forward="false" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+              <folding>
+                <element signature="e#69#90#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="optimized.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imgting/optimized.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://C:/Program Files (x86)/Python36-32/Lib/site-packages/tinify/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -37,6 +110,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>wordcloud</find>
+      <find>tinify_keys</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -50,12 +124,18 @@
       <list>
         <option value="$PROJECT_DIR$/start/start.py" />
         <option value="$PROJECT_DIR$/vultr_test/curl_send.py" />
+        <option value="$PROJECT_DIR$/flask_api/__init__.py" />
+        <option value="$PROJECT_DIR$/flask_api/flask_study.py" />
+        <option value="$PROJECT_DIR$/imgting/aaaa.py" />
+        <option value="$PROJECT_DIR$/imgting/__init__.py" />
+        <option value="$PROJECT_DIR$/imgting/tinypng.py" />
+        <option value="$PROJECT_DIR$/imgting/comm.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1752" />
-    <option name="y" value="-326" />
+    <option name="x" value="-1558" />
+    <option name="y" value="-261" />
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
@@ -85,6 +165,16 @@
             <path>
               <item name="weixin_python" type="b2602c69:ProjectViewProjectNode" />
               <item name="weixin_python" type="462c0819:PsiDirectoryNode" />
+              <item name="flask_api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weixin_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weixin_python" type="462c0819:PsiDirectoryNode" />
+              <item name="imgting" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weixin_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weixin_python" type="462c0819:PsiDirectoryNode" />
               <item name="start" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -103,6 +193,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\PythonSpace\weixin_python\imgting" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -115,7 +210,58 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.curl_send">
+  <component name="RunManager" selected="Python.comm">
+    <configuration name="__init__ (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/imgting" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="weixin_python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/imgting/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flask_api" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="weixin_python" />
+      <option name="SCRIPT_NAME" value="C:\PythonSpace\weixin_python\flask_api\flask_study.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="comm" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/imgting" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="weixin_python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/imgting/comm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="curl_send" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,31 +279,37 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="start" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="flask_study" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/start" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flask_api" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="weixin_python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/start/start.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flask_api/flask_study.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="Python.start" />
-      <item index="1" class="java.lang.String" itemvalue="Python.curl_send" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.curl_send" />
+      <item index="1" class="java.lang.String" itemvalue="Python.__init__" />
+      <item index="2" class="java.lang.String" itemvalue="Python.flask_study" />
+      <item index="3" class="java.lang.String" itemvalue="Python.comm" />
+      <item index="4" class="java.lang.String" itemvalue="Python.__init__ (1)" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.curl_send" />
-        <item index="1" class="java.lang.String" itemvalue="Python.start" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.comm" />
+        <item index="1" class="java.lang.String" itemvalue="Python.__init__ (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Python.flask_study" />
+        <item index="3" class="java.lang.String" itemvalue="Python.__init__" />
+        <item index="4" class="java.lang.String" itemvalue="Python.curl_send" />
       </list>
     </recent_temporary>
   </component>
@@ -203,9 +355,10 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18923241" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5283019" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.49944136" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2905028" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -216,7 +369,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -229,7 +381,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="curl send" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -238,7 +392,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#0#9#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -264,7 +418,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#0#9#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -290,7 +444,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#0#9#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -308,7 +462,7 @@
         <state relative-caret-position="462">
           <caret line="22" column="36" lean-forward="true" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
           <folding>
-            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#0#9#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -388,10 +542,79 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vultr_test/curl_send.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="49" column="44" lean-forward="true" selection-start-line="49" selection-start-column="44" selection-end-line="49" selection-end-column="44" />
+        <state relative-caret-position="369">
+          <caret line="54" column="27" lean-forward="true" selection-start-line="54" selection-start-column="27" selection-end-line="54" selection-end-column="27" />
           <folding>
-            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#0#9#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_api/flask_study.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="62" lean-forward="true" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imgting/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="39" lean-forward="true" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imgting/wmb010.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/Python36-32/Lib/site-packages/tinify/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imgting/tinypng.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1785">
+          <caret line="94" column="0" lean-forward="false" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+          <folding>
+            <element signature="e#69#90#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imgting/optimized.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imgting/aaaa.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1596">
+          <caret line="76" column="44" lean-forward="true" selection-start-line="76" selection-start-column="44" selection-end-line="76" selection-end-column="44" />
+          <folding>
+            <element signature="e#69#90#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imgting/comm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="171" column="24" lean-forward="true" selection-start-line="171" selection-start-column="24" selection-end-line="171" selection-end-column="24" />
+          <folding>
+            <element signature="e#541#558#0" expanded="true" />
+            <element signature="e#1131#2890#0" expanded="false" />
+            <element signature="e#1969#2646#0" expanded="false" />
+            <element signature="e#2938#5049#0" expanded="false" />
           </folding>
         </state>
       </provider>
