@@ -16,8 +16,8 @@
       <file leaf-file-name="curl_send.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/vultr_test/curl_send.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="509">
-              <caret line="60" column="35" lean-forward="true" selection-start-line="60" selection-start-column="35" selection-end-line="60" selection-end-column="35" />
+            <state relative-caret-position="278">
+              <caret line="49" column="44" lean-forward="true" selection-start-line="49" selection-start-column="44" selection-end-line="49" selection-end-column="44" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -186,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1527658224066</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="curl send">
+      <created>1527658271332</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1527658271332</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -381,8 +388,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vultr_test/curl_send.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="509">
-          <caret line="60" column="35" lean-forward="true" selection-start-line="60" selection-start-column="35" selection-end-line="60" selection-end-column="35" />
+        <state relative-caret-position="278">
+          <caret line="49" column="44" lean-forward="true" selection-start-line="49" selection-start-column="44" selection-end-line="49" selection-end-column="44" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
