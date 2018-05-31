@@ -1,17 +1,3 @@
-# -*-coding:utf8 -*-
-
-'''
-    Author:JerryTan
-    Date:2016.9.10
-
-    This is a convenient utility for compressing png images by tinypng API.Hook up your server to TinyJPG and TinyPNG and compress all your images on the fly.
-    The API uses the compression engine that powers the web services so you can expect exactly the same results.
-    Enter your name and email address below to retrieve your key and get started.
-
-    Tinypng official website:https://tinypng.com
-    API Reference:https://tinypng.com/developers/reference/python
-'''
-
 import subprocess
 import os
 import shutil
@@ -24,7 +10,10 @@ import sys
 PNGQUANT_PATH = os.path.join(os.getcwd(), 'pngquant.exe')
 
 # 自定义多个tinify_keys存放到列表，使用前请替换
-tinify_keys = ["vqZIaeRi9hUBxzGcSNVOf5hCfs5WJHGO", "AJ4Z720EjZZQJpDnt2K7rhaQINSqpA4i", "Ien9JtUYxlofltsbDQCSX6cTAajCxyy2" ,"pPGFXhJ7ugVXdVQbbJDzV2T98StuuBFF"]
+tinify_keys = ["vqZIaeRi9hUBxzGcSNVOf5hCfs5WJHGO", "AJ4Z720EjZZQJpDnt2K7rhaQINSqpA4i",
+               "Ien9JtUYxlofltsbDQCSX6cTAajCxyy2", "pPGFXhJ7ugVXdVQbbJDzV2T98StuuBFF"]
+
+
 # tinify_keys = ["pPGFXhJ7ugVXdVQbbJDzV2T98StuuBFF", "Ien9JtUYxlofltsbDQCSX6cTAajCxyy2", "Ien9JtUYxlofltsbDQCSX6cTAajCxyy2" ,"pPGFXhJ7ugVXdVQbbJDzV2T98StuuBFF"]
 
 
@@ -159,37 +148,6 @@ def CompressByTinypng(fromFile, out_dir):
     except Exception as e:
         print(e.message)
 
+
 CompressByTinypng('C:/Users/hanwenmao/Desktop/PNG/100-999_kb_png', 'C:/Users/hanwenmao/Desktop/PNG/100-999_kb_my')
 # CompressByPillow('imgting/wmb010.png', 'imgting/a.png')
-'''
-用法说明：
-
-命令行输入
-python imgCompress.py 压缩文件（或者目录，必填） 输出目录（选填，如果不填则覆盖当前目录）
-'''
-#
-# if __name__ == "__main__":
-#     command = sys.argv
-#     if len(command) < 2:
-#         print("command line params must have 2 parameters at least")
-#         raise ValueError("command line params must have 2 parameters at least")
-#     src_dir = command[1]
-#     print(src_dir)
-#     out_dir = None
-#     try:
-#         if os.path.isdir(command[2]):
-#             out_dir = command[2]
-#     except:
-#         out_dir = None
-#         pass
-#
-#     # Tinypng
-#     # CompressByTinypng(src_dir, out_dir)
-#
-#
-#     # Pngquant
-#     # CompressByPillow(src_dir, out_dir)
-#
-#
-#     # Pillow
-#     CompressByPillow('imgting/wmb010.png', 'imgting/')
